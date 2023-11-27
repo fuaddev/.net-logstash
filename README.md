@@ -27,7 +27,7 @@ DotNetLogStashLogging is an ASP.NET Core 6 application demonstrating the integra
    - This will set up the necessary environment including the ELK stack.
 
 2. **Accessing the Application:**
-   - Once the application is running, access it at `http://localhost:8081/`.
+   - Once the application is running, access it at `http://localhost:8081/swagger/index.html`.
    - The application provides a basic example with a single action to demonstrate logging.
    - For Kibana dashboard, go to `http://localhost:5601/`.
 
