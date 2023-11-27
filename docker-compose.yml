@@ -29,7 +29,7 @@ services:
 
   dotnetapp:
     build:
-      context: .
+      context: DotNetLogStashLogging
       dockerfile: Dockerfile
     ports:
       - "8081:80"

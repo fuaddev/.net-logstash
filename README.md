@@ -4,18 +4,13 @@
 DotNetLogStashLogging is an ASP.NET Core 6 application demonstrating the integration with the Elastic Logstash Kibana (ELK) stack. The project utilizes Serilog for logging, emphasizing on transmitting logs in JSON format over UDP. This example provides a basic setup with one action, showcasing parametrized logging capabilities.
 
 ## Prerequisites
-- .NET Core 6 SDK
+- .NET Core 6 SDK (For running locally)
 - Docker
 
 ## Setup and Configuration
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/fuaddev/.net-logstash.git
-   ```
-
-2. **Navigate to the Project Directory:**
-   ```bash
-   cd DotNetLogStashLogging
    ```
 
 ## Running the Application
